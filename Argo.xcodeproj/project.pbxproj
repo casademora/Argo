@@ -324,7 +324,7 @@
 		F802D4C51A5EE2D5005E236C /* url.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = url.json; sourceTree = "<group>"; };
 		F82D15F21C3C82730079FFB5 /* NSNumber.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NSNumber.swift; path = Argo/Extensions/NSNumber.swift; sourceTree = SOURCE_ROOT; };
 		F84318A71B9A2D7A00165216 /* DecodeError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DecodeError.swift; path = Argo/Types/DecodeError.swift; sourceTree = SOURCE_ROOT; };
-		F85F93411D42C8CE001C8EA7 /* Curry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Curry.framework; path = "Carthage/Checkouts/Curry/build/Debug-iphoneos/Curry.framework"; sourceTree = "<group>"; };
+		F85F93411D42C8CE001C8EA7 /* Curry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Curry.framework; path = Carthage/Build/iOS/Curry.framework; sourceTree = "<group>"; };
 		F85F93431D42C8D6001C8EA7 /* Curry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Curry.framework; path = Carthage/Checkouts/Curry/build/Debug/Curry.framework; sourceTree = "<group>"; };
 		F85F93451D42C8DD001C8EA7 /* Curry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Curry.framework; path = "Carthage/Checkouts/Curry/build/Debug-appletvos/Curry.framework"; sourceTree = "<group>"; };
 		F874B7E91A66BF52004CCE5E /* root_array.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = root_array.json; sourceTree = "<group>"; };
@@ -338,7 +338,7 @@
 		F89335541A4CE83000B88685 /* Argo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Argo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F893355E1A4CE83000B88685 /* Argo-MacTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Argo-MacTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F893356D1A4CE8FC00B88685 /* Argo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Argo.h; path = Argo/Resources/Argo.h; sourceTree = SOURCE_ROOT; };
-		F8ABEBD01D42C67100B4363C /* Runes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Runes.framework; path = "Carthage/Checkouts/Runes/build/Debug-iphoneos/Runes.framework"; sourceTree = "<group>"; };
+		F8ABEBD01D42C67100B4363C /* Runes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Runes.framework; path = Carthage/Build/iOS/Runes.framework; sourceTree = "<group>"; };
 		F8ABEBD21D42C67800B4363C /* Runes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Runes.framework; path = Carthage/Checkouts/Runes/build/Debug/Runes.framework; sourceTree = "<group>"; };
 		F8ABEBD41D42C67E00B4363C /* Runes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Runes.framework; path = "Carthage/Checkouts/Runes/build/Debug-watchos/Runes.framework"; sourceTree = "<group>"; };
 		F8ABEBD61D42C68200B4363C /* Runes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Runes.framework; path = "Carthage/Checkouts/Runes/build/Debug-appletvos/Runes.framework"; sourceTree = "<group>"; };
